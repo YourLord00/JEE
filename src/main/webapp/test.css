@@ -14,7 +14,7 @@
 	display:block;
 	text-align: left;
 	border-style: solid;
-	display:block
+	display:block;
 
 }
 
@@ -75,7 +75,7 @@
 	width:20%;
 	float:left;	
 	border-style : solid;
-	margin:10px;
+	margin:5px;
 	padding-left:10px;
 }
 #display:hover{
